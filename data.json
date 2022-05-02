@@ -1,0 +1,104 @@
+[
+    {
+        "index": 0 ,
+        "titulo_categoria": "Bebidas",
+        "subcategoria": [
+            {
+                "index": 0 ,
+                "titulo_subcategoria":  "Refrigerantes" ,
+                "produtos": [
+                    {
+                    "index" : 0 ,
+                    "titulo_produto" : "Coca cola",
+                    "price" : 10, "nr_clicks" : 20 ,
+                    "nr_orders": 10
+                    } ,
+                     {
+                    "index" : 1 ,
+                    "titulo_produto" : "Guaraná",
+                    "price" : 12, "nr_clicks" : 0,
+                    "nr_orders": 1}
+                    ,{
+                        "index" : 2 ,
+                        "titulo_produto" : "Fanta",
+                        "price" : 50,
+                        "nr_clicks" : 2 ,
+                        "nr_orders": 2
+                    }
+                ]
+            },
+            {
+                "index": 1 ,
+                "titulo_subcategoria":  "Vinhos" ,
+                "produtos": [
+                    {
+                    "index" : 0 ,
+                    "titulo_produto" : "Branco",
+                    "price" : 120, "nr_clicks" : 201 ,
+                    "nr_orders": 130
+                    } ,
+                     {
+                    "index" : 1 ,
+                    "titulo_produto" : "Verde",
+                    "price" : 122, "nr_clicks" : 222,
+                    "nr_orders": 3}
+                    ,{
+                        "index" : 2 ,
+                        "titulo_produto" : "Azul",
+                        "price" : 520,
+                        "nr_clicks" : 28 ,
+                        "nr_orders": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "index": 1 ,
+        "titulo_categoria": "Pratos do dia",
+        "subcategoria": [
+            {
+                "index": 0 ,
+                "titulo_subcategoria":  "Carnes" ,
+                "produtos": [
+                    {
+                    "index" : 0 ,
+                    "titulo_produto" : "Bitoque",
+                    "price" : 9, "nr_clicks" : 10 ,
+                    "nr_orders": 10
+                    } ,
+                     {
+                    "index" : 1 ,
+                    "titulo_produto" : "Alheira",
+                    "price" : 30 , "nr_clicks" : 22,
+                    "nr_orders": 99}
+                   
+                ]
+            },
+            {
+                "index": 1 ,
+                "titulo_subcategoria":  "Peixe" ,
+                "produtos": [
+                    {
+                    "index" : 0 ,
+                    "titulo_produto" : "Cardume",
+                    "price" : 12, "nr_clicks" : 0 ,
+                    "nr_orders": 0
+                    } ,
+                     {
+                    "index" : 1 ,
+                    "titulo_produto" : "Atum",
+                    "price" : 5, "nr_clicks" : 6,
+                    "nr_orders": 2}
+                    ,{
+                        "index" : 2 ,
+                        "titulo_produto" : "Carangueijo",
+                        "price" : 999,
+                        "nr_clicks" : 10 ,
+                        "nr_orders": 2
+                    }
+                ]
+            }
+        ]
+    }
+]
